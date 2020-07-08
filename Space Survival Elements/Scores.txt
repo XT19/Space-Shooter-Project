@@ -1,0 +1,34 @@
+Create Table "main"."HighScores"
+SQL:
+CREATE  TABLE "main"."HighScores" ("id" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL  UNIQUE , "name" TEXT, "score" INTEGER, "wave" INTEGER, "Date" DATETIME DEFAULT CURRENT_DATE)
+
+
+
+-Asteorides en arrière plan
+
+-Vitesse balles ennemies
+
+-Colision balles
+
+-Ennemies WashAsh
+
+-Power up ?
+
+-Health Point
+
+-Bombs
+
+-Lives
+
+-Asteorid avec moteurs
+
+-Dragon avec cambinaison d'astroaute
+
+-Wave chagement decore
+
+-Ennemies a certaines waves
+
+-Ecrans chargement pour les audio
+
+
+
